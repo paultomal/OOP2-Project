@@ -1,0 +1,25 @@
+F:\C#\OOP2 PROJECT 2.0\bin\Debug\OOP2 PROJECT 2.0.exe.config
+F:\C#\OOP2 PROJECT 2.0\bin\Debug\OOP2 PROJECT 2.0.exe
+F:\C#\OOP2 PROJECT 2.0\bin\Debug\OOP2 PROJECT 2.0.pdb
+F:\C#\OOP2 PROJECT 2.0\obj\Debug\OOP2 PROJECT 2.0.csproj.AssemblyReference.cache
+F:\C#\OOP2 PROJECT 2.0\obj\Debug\OOP2_PROJECT_2._0.AboutUs.resources
+F:\C#\OOP2 PROJECT 2.0\obj\Debug\OOP2_PROJECT_2._0.ADMIN.Admin.resources
+F:\C#\OOP2 PROJECT 2.0\obj\Debug\OOP2_PROJECT_2._0.Admin_Info.resources
+F:\C#\OOP2 PROJECT 2.0\obj\Debug\OOP2_PROJECT_2._0.employee_info.resources
+F:\C#\OOP2 PROJECT 2.0\obj\Debug\OOP2_PROJECT_2._0.leave.resources
+F:\C#\OOP2 PROJECT 2.0\obj\Debug\OOP2_PROJECT_2._0.admin_Mailbox.resources
+F:\C#\OOP2 PROJECT 2.0\obj\Debug\OOP2_PROJECT_2._0.employee_Requisition.resources
+F:\C#\OOP2 PROJECT 2.0\obj\Debug\OOP2_PROJECT_2._0.Form1.resources
+F:\C#\OOP2 PROJECT 2.0\obj\Debug\OOP2_PROJECT_2._0.manager_mailbox.resources
+F:\C#\OOP2 PROJECT 2.0\obj\Debug\OOP2_PROJECT_2._0.manage_employee_ByAdmin.resources
+F:\C#\OOP2 PROJECT 2.0\obj\Debug\OOP2_PROJECT_2._0.Manager_Info.resources
+F:\C#\OOP2 PROJECT 2.0\obj\Debug\OOP2_PROJECT_2._0.manage_employee_By_Manager.resources
+F:\C#\OOP2 PROJECT 2.0\obj\Debug\OOP2_PROJECT_2._0.Properties.Resources.resources
+F:\C#\OOP2 PROJECT 2.0\obj\Debug\OOP2 PROJECT 2.0.csproj.GenerateResource.cache
+F:\C#\OOP2 PROJECT 2.0\obj\Debug\OOP2 PROJECT 2.0.csproj.CoreCompileInputs.cache
+F:\C#\OOP2 PROJECT 2.0\obj\Debug\OOP2 PROJECT 2.0.exe
+F:\C#\OOP2 PROJECT 2.0\obj\Debug\OOP2 PROJECT 2.0.pdb
+F:\C#\OOP2 PROJECT 2.0\obj\Debug\OOP2_PROJECT_2._0.Manager_database.resources
+F:\C#\OOP2 PROJECT 2.0\obj\Debug\OOP2_PROJECT_2._0.details.resources
+F:\C#\OOP2 PROJECT 2.0\obj\Debug\OOP2_PROJECT_2._0.workload.resources
+F:\C#\OOP2 PROJECT 2.0\obj\Debug\OOP2_PROJECT_2._0.givework.resources
